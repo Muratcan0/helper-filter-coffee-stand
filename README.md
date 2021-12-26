@@ -1,6 +1,6 @@
 # Helper_Filter_Coffee_Stand
 
-(ENG) Helper filtre coffe stand
+(ENG) Helper filter coffee stand
 
 Purpose : This stand is designed for making the brewing process easier and drinking a well-brewed,non-burned filter coffee. The summarized process of this stand is measuring the hot water tepmerature, helping it to cool with using a cooler fan, pulling the filter coffee into the french press, and giving an alert sound to indicate the process ending.
 
